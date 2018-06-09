@@ -1,4 +1,4 @@
-Bootloader
+# Bootloader (32 Bit)
 
 Requirements
 * gcc++
