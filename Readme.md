@@ -1,20 +1,22 @@
-# Bootloader (32 Bit)
+# Bootloader 
 
-Requirements
+`For support 32 bit` 
+
+### Requirements
 * gcc++
 * lib36-dev-i386
 
-For Execute 
+### For Execute 
 * Virtualbox
 * xorriso
 
-Make iso file
+### Make iso file
 
 ```
 make install
 ```
 
-Execute Virtual Machine
+### Execute Virtual Machine
 
 ```
 make run
