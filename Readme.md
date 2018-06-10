@@ -1,4 +1,4 @@
-# Kaos Operation System 
+# Kaos Operationg System 
 
 `For support 32 bit` 
 
