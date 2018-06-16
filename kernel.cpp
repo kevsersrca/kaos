@@ -25,7 +25,7 @@ extern "C" void callConstructor(void* multiboot_structure,uint32_t /*multiboot_m
 
 extern "C" void kernelMain() {
         
-        printf("Merhaba Dunya");
-        
+        printf("Merhaba Dunya!");
+
         while(1);
 }
